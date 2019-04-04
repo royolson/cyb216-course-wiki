@@ -6,9 +6,9 @@
 
 ## Videos
 ### Lynda.com (SSO Login Required)
-[Learn Bash Scripting](http://tldp.org/LDP/Bash-Beginners-Guide/html/index.html "Learn Bash Scipting")  
-[Linux: Bash Shell and Scripts](http://tldp.org/LDP/Bash-Beginners-Guide/html/index.html "Linux Bash Shell and Scripts")  
-[Learning Bash Scripting](http://tldp.org/LDP/Bash-Beginners-Guide/html/index.html "Learning Bash Scripting")  
+[Learning Bash Scripting](https://www.lynda.com/Bash-tutorials/Learning-Bash-Scripting/142989-2.html?org=nu.edu "Learn Bash Scipting")  
+[Linux: Bash Shell and Scripts](https://www.lynda.com/Linux-tutorials/Linux-Bash-Shell-Scripts/504429-2.html?org=nu.edu "Linux Bash Shell and Scripts")  
+
 
 ## Challenges
 
