@@ -2,7 +2,7 @@
 
 ## Text Editors
 [Atom](https://atom.io "Atom")  
-[Notepad](https://notepad-plus-plus.org "Notepad++")  
+[Notepad++](https://notepad-plus-plus.org "Notepad++")  
 [Sublime Text](https://www.sublimetext.com "Sublime Text")  
 ## Integrated Development Environments (IDE)
 [PyCharm](https://www.jetbrains.com/pycharm/ "PyCharm")  
