@@ -7,5 +7,5 @@
 ## Integrated Development Environments (IDE)
 [PyCharm](https://www.jetbrains.com/pycharm/ "PyCharm")  
 [PyCharm Student Discount](https://www.jetbrains.com/student/ "PyCharm Student Discount")  
-[Microsoft - Visual Studio Code - Open Source](https://github.com/Microsoft/vscode "Microsoft - Visual Studio Code - Open Source")  
+[Microsoft - Visual Studio Code - Open Source](https://code.visualstudio.com "Microsoft - Visual Studio Code - Open Source")  
 
