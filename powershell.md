@@ -1,8 +1,7 @@
 # PowerShell
 
 ## Reading and Websites
-[PowerShell.org](https://powershell.org "powershell.org")    
-[Tips for an Information Security Analyst/Pentester career - Ep. 50: Bash for pentesting](https://www.peerlyst.com/posts/tips-for-an-information-security-analyst-pentester-career-ep-50-bash-for-pentesting-mattia-campagnano-13-years-experience-akron-oh?trk=tag_page_posts_panel_activity_feed "Tips for an Information Security Analyst/Pentester career - Ep. 50: Bash for pentesting")     
+[PowerShell.org](https://powershell.org "powershell.org")       
 [Resource: Infosec PowerShell tools, resources, and authors](https://www.peerlyst.com/posts/resource-infosec-powershell-tools-resources-and-authors?trk=search_page_search_result "Resource: Infosec PowerShell tools, resources, and authors")    
 [PowerShell Tutorial - TutorialsPoint](https://www.tutorialspoint.com/powershell/index.htm "Powershell Tutoria")    
 [PowerShell - Scripting - TutorialsPoint ](https://www.tutorialspoint.com/powershell/powershell_scripting.htm "PowerShell - Scripting - TutorialsPoint")   
