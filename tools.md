@@ -1,11 +1,26 @@
 # Tools
 
 ## Text Editors
-[Atom](https://atom.io "Atom")  
-[Notepad++](https://notepad-plus-plus.org "Notepad++")  
-[Sublime Text](https://www.sublimetext.com "Sublime Text")  
+[Atom][1]  
+[Notepad++][2]  
+[Sublime Text][3]  
 ## Integrated Development Environments (IDE)
-[PyCharm](https://www.jetbrains.com/pycharm/ "PyCharm")  
-[PyCharm Student Discount](https://www.jetbrains.com/student/ "PyCharm Student Discount")  
-[Microsoft - Visual Studio Code - Open Source](https://code.visualstudio.com "Microsoft - Visual Studio Code - Open Source")  
+[PyCharm][4]  
+[PyCharm Student Discount][5]  
+[Microsoft - Visual Studio Code - Open Source][6]
+## Online Environments
+[Python Anywhere][7]       
+[Execute Bash Shell Online][8]     
+[Trinket][9]    
+[Shell Check][10] - Bash
 
+[1]:	https://atom.io "Atom"
+[2]:	https://notepad-plus-plus.org "Notepad++"
+[3]:	https://www.sublimetext.com "Sublime Text"
+[4]:	https://www.jetbrains.com/pycharm/ "PyCharm"
+[5]:	https://www.jetbrains.com/student/ "PyCharm Student Discount"
+[6]:	https://code.visualstudio.com "Microsoft - Visual Studio Code - Open Source"
+[7]:	https://www.pythonanywhere.com "Python Anywhere"
+[8]:	http://www.tutorialspoint.com/execute_bash_online.php?PID=0Bw_CjBb95KQMZ1RmQkN4TEpvMDQ "Execute Bash Shell Online"
+[9]:	https://trinket.io "Trinket"
+[10]:	https://www.shellcheck.net "Shell Check"
