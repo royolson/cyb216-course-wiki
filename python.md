@@ -19,11 +19,13 @@
 ### YouTube
 [Python for Everybody Playlist][11] 
 [Automate the Boring Stuff With Python][12]   
-[Lucid Programming][13]  (Higher level Python and interview tips)            
+[Lucid Programming][13]  (Higher level Python and interview tips)  
+### Other
+[Writing Beautiful Pythonic Code With PEP 8][14]          
 ## Challenges
-[Code Signal][14]    
-[Coding Bat][15]    
-[Python Challenge][16]   
+[Code Signal][15]    
+[Coding Bat][16]    
+[Python Challenge][17]   
 
 [1]:	https://www.py4e.com/html3/ "Python For Everybody Website"
 [2]:	http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf "Python for Everybody: Exploring Data in Python 3 - PDF"
@@ -38,6 +40,7 @@
 [11]:	https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p "Python for Everybody Playlist"
 [12]:	https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW "Automate the Boring Stuff with Python"
 [13]:	https://www.youtube.com/c/LucidProgramming "Lucid Programming"
-[14]:	https://codesignal.com "Code Signal"
-[15]:	https://codingbat.com/python "Coding Bat"
-[16]:	http://www.pythonchallenge.com "Python Challenge"
+[14]:	https://realpython.com/courses/writing-beautiful-python-code-pep-8/?utm_source=cpc&utm_medium=fb&utm_campaign=courses&utm_content=pep8-var1&fbclid=IwAR2P_o8JRj02T0N7S8sK_aEVFppo8rEZiM34pg375ZiG-Bfi4nxu6eVbPo4 "Writing Beautiful Pythonic Code With PEP 8"
+[15]:	https://codesignal.com "Code Signal"
+[16]:	https://codingbat.com/python "Coding Bat"
+[17]:	http://www.pythonchallenge.com "Python Challenge"
