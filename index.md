@@ -11,7 +11,8 @@ This course introduces the fundamental concepts of programming for cybersecurity
 ## Navigation
 The top menu bar has links to the different sections of this wiki.
 ## Lab Files
-[Week 1 Lab Files][1]
+[Week 1 Lab Files][1]      
+
 **Students are encouraged to update the wiki. Details will be discussed in class. **
 
 [1]:	https://github.com/NU-Cybersecurity/cyb216-course-wiki/tree/master/Lab%20files "Week 1 Lab FIles"
