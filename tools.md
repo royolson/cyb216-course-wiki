@@ -9,12 +9,15 @@
 [PyCharm Student Discount][5]  
 [Microsoft - Visual Studio Code - Open Source][6]
 ## Online Environments
-[Python Anywhere][7]       
-[Execute Bash Shell Online][8]     
-[Trinket][9]    
+[Python Anywhere][7]  
+[Execute Bash Shell Online][8]  
+[Trinket][9]  
 [Shell Check][10] - Bash
+[Katacoda][11]     
+[hackerrank][12]    
+
 ## Tool Set Up
-[Visual Studio Set Up for Python][11]
+[Visual Studio Set Up for Python][13]
 
 [1]:	https://atom.io "Atom"
 [2]:	https://notepad-plus-plus.org "Notepad++"
@@ -26,4 +29,6 @@
 [8]:	http://www.tutorialspoint.com/execute_bash_online.php?PID=0Bw_CjBb95KQMZ1RmQkN4TEpvMDQ "Execute Bash Shell Online"
 [9]:	https://trinket.io "Trinket"
 [10]:	https://www.shellcheck.net "Shell Check"
-[11]:	https://realpython.com/lessons/introduction-visual-studio-code/ "Visual Studio Set Up for Python"
+[11]:	https://www.katacoda.com/ "katacoda"
+[12]:	https://www.hackerrank.com "hackerrank"
+[13]:	https://realpython.com/lessons/introduction-visual-studio-code/ "Visual Studio Set Up for Python"
