@@ -7,10 +7,10 @@
 [Unix / Linux Tutorial - TutorialsPoint][3]
 [Unix - What is Shells? - TutorialsPoint][4]
 [Tips for an Information Security Analyst/Pentester career - Ep. 50: Bash for pentesting][5] 
-[Learn the Command Line - Code Academy][6]   
+[Learn the Command Line - Code Academy][6]  
 [Bash Guide][7]
-[Google Shell Style Guide][8]    
-[Advanced Bash-Scripting Guide][9]     
+[Google Shell Style Guide][8]  
+[Advanced Bash-Scripting Guide][9]  
 [The Bash Hackers Wiki][10]     
 ## E-Books
 [Free Bash Programming Books][11]      
@@ -21,6 +21,9 @@
 
 
 ## Challenges
+
+## Cheatsheets
+[Bash Scripting Cheatsheet][14]
 
 [1]:	http://tldp.org/LDP/Bash-Beginners-Guide/html/index.html "Bash Guide for Beginners"
 [2]:	https://www.tutorialspoint.com/unix/shell_scripting.htm "Shell Scripting Tutorial - TutorialsPoint"
@@ -35,3 +38,4 @@
 [11]:	https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#bash "Free Bash Programming Books"
 [12]:	https://www.lynda.com/Bash-tutorials/Learning-Bash-Scripting/142989-2.html?org=nu.edu "Learn Bash Scipting"
 [13]:	https://www.lynda.com/Linux-tutorials/Linux-Bash-Shell-Scripts/504429-2.html?org=nu.edu "Linux Bash Shell and Scripts"
+[14]:	https://devhints.io/bash "Bash scripting Cheatsheet"
