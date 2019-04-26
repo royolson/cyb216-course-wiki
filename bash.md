@@ -2,13 +2,13 @@
 
 ## Reading and Websites
 
-[Bash Guide for Beginners][1] 
+[Bash Guide for Beginners][1]<br/>
 [Shell Scripting Tutorial - TutorialsPoint][2]  
-[Unix / Linux Tutorial - TutorialsPoint][3]
-[Unix - What is Shells? - TutorialsPoint][4]
-[Tips for an Information Security Analyst/Pentester career - Ep. 50: Bash for pentesting][5] 
+[Unix / Linux Tutorial - TutorialsPoint][3]<br/>
+[Unix - What is Shells? - TutorialsPoint][4]<br/>
+[Tips for an Information Security Analyst/Pentester career - Ep. 50: Bash for pentesting][5]<br/> 
 [Learn the Command Line - Code Academy][6]  
-[Bash Guide][7]
+[Bash Guide][7]<br/>
 [Google Shell Style Guide][8]  
 [Advanced Bash-Scripting Guide][9]  
 [The Bash Hackers Wiki][10]     
