@@ -12,18 +12,19 @@
 [Google Shell Style Guide][8]  
 [Advanced Bash-Scripting Guide][9]  
 [The Bash Hackers Wiki][10]     
+[Linux Shell Scripting Tutorial][11]
 ## E-Books
-[Free Bash Programming Books][11]      
+[Free Bash Programming Books][12]      
 ## Videos
 ### Lynda.com (SSO Login Required)
-[Learning Bash Scripting][12]  
-[Linux: Bash Shell and Scripts][13]  
+[Learning Bash Scripting][13]  
+[Linux: Bash Shell and Scripts][14]  
 
 
 ## Challenges
 
 ## Cheatsheets
-[Bash Scripting Cheatsheet][14]
+[Bash Scripting Cheatsheet][15]
 
 [1]:	http://tldp.org/LDP/Bash-Beginners-Guide/html/index.html "Bash Guide for Beginners"
 [2]:	https://www.tutorialspoint.com/unix/shell_scripting.htm "Shell Scripting Tutorial - TutorialsPoint"
@@ -35,7 +36,8 @@
 [8]:	https://google.github.io/styleguide/shell.xml "Google Shell Style Guide"
 [9]:	https://www.tldp.org/LDP/abs/html/ "Advanced Bash-Scripting Guide"
 [10]:	https://wiki.bash-hackers.org "The Bash Hackers Wiki"
-[11]:	https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#bash "Free Bash Programming Books"
-[12]:	https://www.lynda.com/Bash-tutorials/Learning-Bash-Scripting/142989-2.html?org=nu.edu "Learn Bash Scipting"
-[13]:	https://www.lynda.com/Linux-tutorials/Linux-Bash-Shell-Scripts/504429-2.html?org=nu.edu "Linux Bash Shell and Scripts"
-[14]:	https://devhints.io/bash "Bash scripting Cheatsheet"
+[11]:	https://bash.cyberciti.biz/guide/Main_Page "Linux Shell Scripting Tutorial"
+[12]:	https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#bash "Free Bash Programming Books"
+[13]:	https://www.lynda.com/Bash-tutorials/Learning-Bash-Scripting/142989-2.html?org=nu.edu "Learn Bash Scipting"
+[14]:	https://www.lynda.com/Linux-tutorials/Linux-Bash-Shell-Scripts/504429-2.html?org=nu.edu "Linux Bash Shell and Scripts"
+[15]:	https://devhints.io/bash "Bash scripting Cheatsheet"
