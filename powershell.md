@@ -1,51 +1,54 @@
 # PowerShell
 
 ## Reading and Websites
-[Microsoft PowerShell Documentation][1]      
+[Microsoft PowerShell Documentation][1]  
 [PowerShell.org][2]  
 [Resource: Infosec PowerShell tools, resources, and authors][3]  
 [PowerShell Tutorial - TutorialsPoint][4]  
 [PowerShell - Scripting - TutorialsPoint ][5] 
 [PowerShell Reference Guide][6]  
-[Awesome PowerShell][7]     
-[Beginners Guide to PowerShell][8]    
-[PowerShell Gallery][9]    
-[Microsoft Script Center][10]     
-[PowerShell Cookbooks][11]     
-[Windows PowerShell Survival Guide][12]    
+[Awesome PowerShell][7]  
+[Beginners Guide to PowerShell][8]  
+[PowerShell Gallery][9]  
+[Microsoft Script Center][10]  
+[PowerShell Cookbooks][11]  
+[Windows PowerShell Survival Guide][12]  
 [The PowerShell Best Practices and Style Guide][13]
 [PowerShell Best Practices][14]
+[PowerShell Arrays][15]
+[PowerShell Write Host][16]
+[PowerShell Hash Tables][17]
 ### E-Books
-[Why PowerShell?][15]    
+[Why PowerShell?][18]  
   
-[Free PowerShell Books][16]     
+[Free PowerShell Books][19]     
 ## Videos
 ### Lynda.com (SSO Login Required)
-[Learning PowerShell 5 with Matt Hester][17]  
-[PowerShell 5 Essential Training][18]    
+[Learning PowerShell 5 with Matt Hester][20]  
+[PowerShell 5 Essential Training][21]    
 ### YouTube
-[PowerShell.org YouTube Channel][19]  
-[Bash Scripting for Pentesters by Lee Baird][20]  
-[PowerShell: HOW-TO do a Ping Sweep (FAST!)][21] 
-[PowerShell Unplugged][22]   
-[Learn Windows PowerShell in a Month of Lunches][23]     
-[Microsoft PowerShell][24]     
-[PowerShell + DevOps Global Summit][25]
+[PowerShell.org YouTube Channel][22]  
+[Bash Scripting for Pentesters by Lee Baird][23]  
+[PowerShell: HOW-TO do a Ping Sweep (FAST!)][24] 
+[PowerShell Unplugged][25]  
+[Learn Windows PowerShell in a Month of Lunches][26]  
+[Microsoft PowerShell][27]  
+[PowerShell + DevOps Global Summit][28]
 ### Microsoft
-[Automate Azure tasks using scripts with PowerShell][26]
-[Getting Started with PowerShell][27] Retires on April 30, 2019     
+[Automate Azure tasks using scripts with PowerShell][29]
+[Getting Started with PowerShell][30] Retires on April 30, 2019     
 ## Podcast
-[PowerScripting Podcast][28] (audio)  
-[PowerScripting Podcast][29] (video)  
+[PowerScripting Podcast][31] (audio)  
+[PowerScripting Podcast][32] (video)  
 
 ## Challenges
-[Under the Wire][30]     
-[Iron Scripter Challenges][31]    
-[Excerism.io PowerShell Challenges][32]   
-[PowerShell Koans][33]         
+[Under the Wire][33]  
+[Iron Scripter Challenges][34]  
+[Excerism.io PowerShell Challenges][35]  
+[PowerShell Koans][36]  
 
 ## Cheatsheets
-[PowerShell Cheatsheets][34]         
+[PowerShell Cheatsheets][37]  
 
 
 [1]:	https://docs.microsoft.com/en-us/powershell/ "Microsoft PowerShell Documentation"
@@ -62,23 +65,26 @@
 [12]:	https://social.technet.microsoft.com/wiki/contents/articles/183.windows-powershell-survival-guide.aspx "Windows PowerShell Survival Guide"
 [13]:	https://github.com/PoshCode/PowerShellPracticeAndStyle "The PowerShell Best Practices and Style Guide"
 [14]:	https://devblogs.microsoft.com/scripting/tag/best-practices/ "PowerShell Best Practices"
-[15]:	https://leanpub.com/whypowershell "Why PowerShell?"
-[16]:	https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#powershell "Free PowerShell Books"
-[17]:	https://www.lynda.com/IT-tutorials/Understanding-PowerShell-5-0/486042-2.html?org=nu.edu "Learning PowerShell 5 with Matt Hessler"
-[18]:	https://www.lynda.com/PowerShell-tutorials/Up-Running-PowerShell-5/189402-2.html?org=nu.edu "PowerShell 5 Essential Training"
-[19]:	https://www.youtube.com/powershellorg "PowerSHell.org YouTube Channel"
-[20]:	https://youtu.be/smbeKPDVs2I "Bash Scripting for Pentesters by Lee Baird"
-[21]:	https://youtu.be/uuA2hWsuTOw "Powershell: HOW-TO do a Ping Sweep (FAST!)"
-[22]:	https://www.youtube.com/watch?v=D15vh-ryJGk "PowerShell Unplugged"
-[23]:	https://www.youtube.com/playlist?list=PL6D474E721138865A "Learn Windows PowerShell in a Month of Lunches"
-[24]:	https://www.youtube.com/playlist?list=PLsrZV8shpwjMXYBmmGodMMQV86xsSz1si "Microsoft PowerShell"
-[25]:	https://www.youtube.com/playlist?list=PLfeA8kIs7CocGXuezOoYtLRdnK9S_Mq3e "PowerShell + DevOps Global Summit"
-[26]:	https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/ "Automate Azure tasks using scripts with PowerShell"
-[27]:	https://mva.microsoft.com/en-us/training-courses/getting-started-with-powershell-3-0-jump-start-8276?l=r54IrOWy_2304984382 "Getting Started with PowerShell"
-[28]:	http://powerscripting.libsyn.com "PowerScripting Podcast "
-[29]:	https://www.youtube.com/user/PowerScriptingLive "PowerScripting Podcast"
-[30]:	http://www.underthewire.tech "Under The Wire"
-[31]:	https://powershell.org/category/announcements/scripting-games/ "Iron Scripter Challenges"
-[32]:	https://exercism.io/my/tracks/powershell "[Excerism.io PowerShell Challenges]"
-[33]:	https://github.com/vexx32/PSKoans "PowerShell Koans"
-[34]:	https://github.com/PrateekKumarSingh/CheatSheets/tree/master/Powershell "PowerShell Chreatsheets"
+[15]:	https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_arrays?view=powershell-6 "PowerShell Arrays"
+[16]:	https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/write-host?view=powershell-6 "PowerShell Write Host"
+[17]:	https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_hash_tables?view=powershell-6 "PowerShell Hash Tables"
+[18]:	https://leanpub.com/whypowershell "Why PowerShell?"
+[19]:	https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#powershell "Free PowerShell Books"
+[20]:	https://www.lynda.com/IT-tutorials/Understanding-PowerShell-5-0/486042-2.html?org=nu.edu "Learning PowerShell 5 with Matt Hessler"
+[21]:	https://www.lynda.com/PowerShell-tutorials/Up-Running-PowerShell-5/189402-2.html?org=nu.edu "PowerShell 5 Essential Training"
+[22]:	https://www.youtube.com/powershellorg "PowerSHell.org YouTube Channel"
+[23]:	https://youtu.be/smbeKPDVs2I "Bash Scripting for Pentesters by Lee Baird"
+[24]:	https://youtu.be/uuA2hWsuTOw "Powershell: HOW-TO do a Ping Sweep (FAST!)"
+[25]:	https://www.youtube.com/watch?v=D15vh-ryJGk "PowerShell Unplugged"
+[26]:	https://www.youtube.com/playlist?list=PL6D474E721138865A "Learn Windows PowerShell in a Month of Lunches"
+[27]:	https://www.youtube.com/playlist?list=PLsrZV8shpwjMXYBmmGodMMQV86xsSz1si "Microsoft PowerShell"
+[28]:	https://www.youtube.com/playlist?list=PLfeA8kIs7CocGXuezOoYtLRdnK9S_Mq3e "PowerShell + DevOps Global Summit"
+[29]:	https://docs.microsoft.com/en-us/learn/modules/automate-azure-tasks-with-powershell/ "Automate Azure tasks using scripts with PowerShell"
+[30]:	https://mva.microsoft.com/en-us/training-courses/getting-started-with-powershell-3-0-jump-start-8276?l=r54IrOWy_2304984382 "Getting Started with PowerShell"
+[31]:	http://powerscripting.libsyn.com "PowerScripting Podcast "
+[32]:	https://www.youtube.com/user/PowerScriptingLive "PowerScripting Podcast"
+[33]:	http://www.underthewire.tech "Under The Wire"
+[34]:	https://powershell.org/category/announcements/scripting-games/ "Iron Scripter Challenges"
+[35]:	https://exercism.io/my/tracks/powershell "[Excerism.io PowerShell Challenges]"
+[36]:	https://github.com/vexx32/PSKoans "PowerShell Koans"
+[37]:	https://github.com/PrateekKumarSingh/CheatSheets/tree/master/Powershell "PowerShell Chreatsheets"
